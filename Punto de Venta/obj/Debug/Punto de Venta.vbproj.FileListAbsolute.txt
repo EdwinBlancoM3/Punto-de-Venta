@@ -1,0 +1,52 @@
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.FrmInicio.resources
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Frm_Marcas.resources
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Frm_Inventario.resources
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\Alejandro\Documents\VB\Proyectos\Punto de Venta\Punto de Venta\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.FrmInicio.resources
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Frm_Marcas.resources
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Frm_Inventario.resources
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+C:\Users\Ildefonso\Documents\Visual Studio 2012\Projects\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbprojResolveAssemblyReference.cache
+C:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+C:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+C:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbprojResolveAssemblyReference.cache
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.FrmInicio.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Frm_Marcas.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmActualizarProducto.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmAgregaProducto.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmEliminar.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmAgregaMarca.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmVentas.resources
+E:\Proyecto M3Technologies\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+E:\Proyecto M3Technologies\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+E:\Proyecto M3Technologies\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+E:\Proyecto M3Technologies\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmReportes.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmResurtir.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmReporteVentas.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.frmTodasLasVentas.resources
+C:\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Acerca.resources
